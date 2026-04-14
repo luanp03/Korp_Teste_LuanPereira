@@ -1,0 +1,45 @@
+.container{
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.page-title{
+    color: #1976d2;
+    margin-bottom: 24px;
+    font-size: 1.8rem;
+}
+
+.form-card{
+    margin-bottom: 32px;
+}
+
+.product-form{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 600px;
+}
+
+.btn-save{
+    align-self: flex-start;
+    margin-top: 8px;
+}
+
+.list-card{
+    margin-top: 20px;
+}
+
+.products-table{
+    width: 100%;
+}
+
+.mat-mdc-row{
+    &:hover{
+        background-color: #f5f5f5;
+    }
+}
+
+.mat-mdc-form-field{
+    width: 100%;
+}
