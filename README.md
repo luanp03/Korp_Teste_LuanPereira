@@ -72,6 +72,6 @@ Para atender às exigências técnicas do desafio, o frontend foi estruturado da
 
 ### Inicialização
 1. **API de Estoque:** Navegue até `backend/estoque.API` e execute `dotnet run --launch-profile http`. (Porta padrão: 5083)
-2. **API de Faturamento:** Navegue até `backend/faturamento.API` e execute `dotnet run --launch-profile http`. (Porta padrão: 5001)
+2. **API de Faturamento:** Navegue até `backend/faturamento.API` e execute `dotnet run --launch-profile http`. (Porta padrão: 5236)
 3. **Frontend:** Navegue até a pasta `frontend`, execute `npm install` e depois `ng serve`.
 4. **Acesso:** Abra o navegador em `http://localhost:4200`.
